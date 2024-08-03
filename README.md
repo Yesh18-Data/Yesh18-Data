@@ -1,5 +1,7 @@
 ### Hi there 👋
-![Uploading computer-screen-with-bunch-graphs-it-ai-generative-image_97070-19102.jpg…]()
+
+
+![computer-screen-with-bunch-graphs-it-ai-generative-image_97070-19102](https://github.com/user-attachments/assets/ae2d0fa3-c441-4137-b537-a132575bbb5a)
 
 **Hi there, I'm Yeswanth Pullagura!** 👋
 
