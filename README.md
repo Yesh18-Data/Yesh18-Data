@@ -1,17 +1,23 @@
-### Hi there 👋
+Hi there, I'm Yeswanth Pullagura! 👋
 
+🔭 I’m currently working on Machine Learning projects, Financial Markets analyses, and Risk Management. I'm diving into advanced quantitative finance techniques and analytics.
 
-![computer-screen-with-bunch-graphs-it-ai-generative-image_97070-19102](https://github.com/user-attachments/assets/ae2d0fa3-c441-4137-b537-a132575bbb5a)
+🌱 I’m expanding my knowledge in cutting-edge Machine Learning algorithms and financial modeling to stay ahead in these rapidly evolving fields.
 
-**Hi there, I'm Yeswanth Pullagura!** 👋
+👯 I’m eager to collaborate on data-driven projects focusing on financial analytics and risk assessment.
 
-- 🔭 I’m currently working on **projects related to Machine Learning, Financial Markets, and Risk Management**. I’m also exploring advanced quantitative finance techniques and analytics.
-- 🌱 I’m currently learning **more about cutting-edge Machine Learning algorithms and financial modeling** to enhance my skills in these areas.
-- 👯 I’m looking to collaborate on **data-driven projects, especially those involving financial analytics and risk assessment**.
-- 🤔 I’m looking for help with **advanced quantitative finance problems and Machine Learning implementations**.
-- 💬 Ask me about **investment banking, financial markets, risk management, and the latest trends in data analytics**.
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/yeswanthpullagura/) | [Email](mailto:Yesh10015@gamil.com)**
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I love combining financial theory with practical data analytics to uncover insights and drive strategic decisions.**
+🤔 I’m seeking assistance with complex quantitative finance challenges and Machine Learning implementations.
 
+💬 Feel free to ask me about:
 
+Investment Banking
+Financial Markets
+Risk Management
+Data Analytics Trends
+📫 Connect with me via: LinkedIn(https://www.linkedin.com/in/yeswanthpullagura/)| Email(Yesh1005@gmail.com)
+
+😄 Pronouns: He/Him
+
+⚡ Fun fact: I enjoy merging financial theory with practical data analytics to derive actionable insights and make strategic decisions.
+
+👨‍💻 All about me is at My Website
