@@ -1,9 +1,6 @@
 ### Hi there 👋
 ![Uploading computer-screen-with-bunch-graphs-it-ai-generative-image_97070-19102.jpg…]()
 
-
----
-
 **Hi there, I'm Yeswanth Pullagura!** 👋
 
 - 🔭 I’m currently working on **projects related to Machine Learning, Financial Markets, and Risk Management**. I’m also exploring advanced quantitative finance techniques and analytics.
