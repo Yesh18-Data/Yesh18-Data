@@ -14,7 +14,7 @@ Hi there, **I'm Yeswanth Pullagura! 👋**
 **Financial Markets**
 **Risk Management**
 **Data Analytics Trends**
-📫 Connect with me via: LinkedIn(https://www.linkedin.com/in/yeswanthpullagura/)| Email(Yesh1005@gmail.com)
+📫 Connect with me via:  Email(Yesh1005@gmail.com)
 
 😄 Pronouns: He/Him
 
