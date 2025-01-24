@@ -1,13 +1,9 @@
+Hi there, **I'm Yeswanth Pullagura!** 👋
 
-**Hi there, I'm Yeswanth Pullagura! 👋**  
- 
+💼 Data Analyst on a mission to turn data into impactful stories 📊. With expertise in Power BI, SQL Server, Python, and advanced data analysis techniques, I thrive on uncovering insights that drive smarter decisions and fuel business growth.
 
-💼 **Experienced Data Analyst** with expertise in **Power BI**, **SQL Server**, **Python**, and **data analysis techniques** to derive actionable insights and make strategic decisions.  
+📬 Let's connect! Drop me a message at Email – I’d love to chat about data, analytics, or anything exciting!
 
-📫 Connect with me via: [Email](mailto:Yesh1005@gmail.com) 
+😄 Pronouns: He/Him
 
-😄 Pronouns: He/Him  
-
-⚡ Fun fact: I enjoy merging financial theory with practical data analytics to deliver impactful solutions.  
-
- 
+⚡ Fun fact: I’m passionate about blending financial theory with practical analytics to create solutions that don’t just crunch numbers but also solve real-world problems. When I'm not analyzing data, you'll find me exploring innovative ideas and taking on new challenges!
